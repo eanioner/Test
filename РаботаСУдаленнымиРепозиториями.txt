@@ -1,0 +1,26 @@
+Удаленные репозитории
+git remote -v
+
+Добавление
+git remote add [name] [url]
+
+Получение данных из удаленных проектов
+git fetch [имя удал. сервера]
+
+Извлечение и merge:
+git pull
+
+Залить в репозиторий
+git push [сервер] [ветка]
+
+
+Информация:
+git remote show [удал.сервер]
+
+
+Переименование
+git remote rename from to
+
+Удаление 
+git remote rm name
+
