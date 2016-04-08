@@ -1,0 +1,15 @@
+Изменение последнего коммита
+git commit --amend
+Пример:
+	git commit -m 'initial commit'
+	git add forgotten_file
+	git commit --amend
+	в результате будет один коммит
+
+Отмена индексации файла
+git reset HEAD <filename>
+
+Отмена изменений файла	(состояние последнего коммита)
+git checkout -- <filename>
+
+
