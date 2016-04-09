@@ -36,4 +36,4 @@ git tag -a v1.2 -m 'version 1.2' 9fceb02
 Обмен метками: 
 git push не отправляем метки
 git push origin [имя метки]
-git push origin --tags 	# отправить все метки
+git push origin --tags 	# отправить все меткиex
