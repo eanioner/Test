@@ -1,0 +1,10 @@
+список веток:
+git branch
+
+последний коммит на каждой из веток
+git branch -v
+
+ветки, которые слили с текущей
+git branch --merged
+не слили
+git branch --no-merged
