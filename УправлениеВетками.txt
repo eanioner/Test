@@ -8,3 +8,6 @@ git branch -v
 git branch --merged
 не слили
 git branch --no-merged
+
+Удалить ветку и потерять наработки
+git branch -D testing
