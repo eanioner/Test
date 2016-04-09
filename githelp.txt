@@ -33,3 +33,8 @@ git log # просмотр истории коммитов
 	# --all-match # если используется grep и author (Должны выполняться оба критерия)
 	# -- <path> # можно укать путь
 
+
+
+ПСЕВДОНИМЫ
+
+git config --global alias.co checkout
